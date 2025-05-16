@@ -1,0 +1,21 @@
+/* Estilos personalizados para la barra lateral */
+
+/* Estilo para el elemento activo en la barra lateral */
+[data-active="true"] {
+  background-color: rgba(0, 0, 0, 0.8) !important;
+  color: white !important;
+}
+
+[data-active="true"]:hover {
+  background-color: black !important;
+  color: white !important;
+}
+
+[data-active="true"] svg {
+  color: white !important;
+}
+
+/* Ocultar el botón flotante de Next.js */
+#__next-build-watcher {
+  display: none !important;
+}
