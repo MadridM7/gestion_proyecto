@@ -2,8 +2,6 @@
 
 Una aplicación web moderna para la gestión de ventas, desarrollada con Next.js y Tailwind CSS, optimizada para el formato monetario chileno (CLP).
 
-![Dashboard de Ventas](https://i.imgur.com/placeholder.png)
-
 ## Índice
 
 - [Características](#características)
