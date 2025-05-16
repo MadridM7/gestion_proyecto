@@ -17,7 +17,6 @@ Una aplicación web moderna para la gestión de ventas, desarrollada con Next.js
 ## Características
 
 - 📊 Dashboard interactivo con gráficos y estadísticas
-- 💰 Formato monetario chileno (CLP) con separadores de miles
 - 📱 Diseño responsive para dispositivos móviles y escritorio
 - 💾 Persistencia de datos con localStorage
 - 🔍 Filtrado y búsqueda avanzada de ventas
