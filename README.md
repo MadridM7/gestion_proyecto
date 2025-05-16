@@ -128,5 +128,3 @@ src/
 ```
 
 ---
-
-Desarrollado con ❤️ para la gestión eficiente de ventas con formato chileno.
